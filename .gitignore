@@ -1,0 +1,13 @@
+*.log
+
+__pycache__/
+
+*.db
+
+flask_session/
+
+app/static/images/
+
+Lib
+Scripts
+pyvenv.cfg
